@@ -1,2 +1,1 @@
-# tinDog
-Dog tinder website. HTML/CSS/Bootstrap.
+TinDog Starting Files
